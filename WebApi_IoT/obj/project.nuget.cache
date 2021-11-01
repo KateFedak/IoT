@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UnZUGK9N0WreFoWGSK5U+KaK33A6BpUjN3N3ubmMZzXWgjRYT1dytTu2uI8xMTTm1HniB9vTDxPBKXLQpLOaPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kateryna.fedak\\Iot\\WebApi_IoT\\WebApi_IoT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kateryna.fedak\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kateryna.fedak\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kateryna.fedak\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\kateryna.fedak\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\kateryna.fedak\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\kateryna.fedak\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
